@@ -69,7 +69,7 @@ Provide screenshots of:
 - A use case diagram
 
 
-![Use Case Diagram](images/UseCaseDiagram.png)
+![Use Case Diagram](Images/UseCaseDiagram.png)
 *Example Use Case Diagram*
 
 Image must show the users of the system. If this is submitted and they have used their ruby project there should only be one user in the diagram.
@@ -83,7 +83,7 @@ Provide screenshots of:
 
 - A class diagram
 
-![Class Diagram](images/ClassDiagram.png)
+![Class Diagram](Images/ClassDiagram.png)
 *Example Class Diagram*
 
 Image must show:
@@ -100,7 +100,7 @@ Provide screenshot of:
 
 - An object diagram
 
-![Object Diagram](images/ObjectDiagram.png)
+![Object Diagram](Images/ObjectDiagram.png)
 *Example Object Diagram*
 
 
@@ -116,7 +116,7 @@ Provide screenshot of:
 
 - An activity diagram
 
-![Activity Diagram](images/ActivityDiagram.png)
+![Activity Diagram](Images/ActivityDiagram.png)
 *Example Activity Diagram*
 
 
@@ -151,7 +151,7 @@ In the Implementation Constraint column for each constraint the student must ans
 
 ### P.5 - User Site Map
 
-![Site Map](images/SiteMap.png)
+![Site Map](Images/SiteMap.png)
 *Example Site Map*
 
 Image must show:
@@ -163,7 +163,7 @@ Image must show:
 
 Student must provide 2 diagrams. 
 
-![Wireframe Diagram](images/WireframeDiagram.png)
+![Wireframe Diagram](Images/WireframeDiagram.png)
 *Example Wireframe Diagram*
 
 
@@ -297,7 +297,7 @@ Show use of Polymorphism in a program and what it is doing.
 
 Provide a screenshot of an ineritance diagram.
 
-![Inheritance Diagram](images/InheritanceDiagram.png)
+![Inheritance Diagram](Images/InheritanceDiagram.png)
 *Example Inheritance Diagram*
 
 Students need to show variables and methods in a child class that have been inherited from a parent class.
@@ -332,10 +332,10 @@ Sequence Diagram:
 - Students should show any information that is passed between classes or method calls with arrows and clear labels to show how and in what order their system functions 
 - Students need to indicate information that is returned with a dotted line and a clear label
 
-![Sequence Diagram](images/SequenceDiagram.png)
+![Sequence Diagram](Images/SequenceDiagram.png)
 *Example class Diagram 1 - methods that don't return anything*
 
-![Sequence Diagram](images/SequenceDiagram2.png)
+![Sequence Diagram](Images/SequenceDiagram2.png)
 *Example class Diagram 2 - method that returns something*
 
 Collaboration Diagram:
@@ -344,7 +344,7 @@ Collaboration Diagram:
 - Students need to indicate the sequence by numbering the messages/method calls.
 - Students must include the boxes and need to have the initialization and end of process boxes.
 
-![Collaboration Diagram](images/CollaborationDiagram.png)
+![Collaboration Diagram](Images/CollaborationDiagram.png)
 *Example Collaboration Diagram*
 
 
