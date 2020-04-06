@@ -70,6 +70,7 @@ Provide screenshots of:
 
 
 ![Use Case Diagram](Images/UseCaseDiagram.png)
+
 *Example Use Case Diagram*
 
 Image must show the users of the system. If this is submitted and they have used their ruby project there should only be one user in the diagram.
@@ -84,6 +85,7 @@ Provide screenshots of:
 - A class diagram
 
 ![Class Diagram](Images/ClassDiagram.png)
+
 *Example Class Diagram*
 
 Image must show:
@@ -101,6 +103,7 @@ Provide screenshot of:
 - An object diagram
 
 ![Object Diagram](Images/ObjectDiagram.png)
+
 *Example Object Diagram*
 
 
@@ -117,6 +120,7 @@ Provide screenshot of:
 - An activity diagram
 
 ![Activity Diagram](Images/ActivityDiagram.png)
+
 *Example Activity Diagram*
 
 
@@ -152,6 +156,7 @@ In the Implementation Constraint column for each constraint the student must ans
 ### P.5 - User Site Map
 
 ![Site Map](Images/SiteMap.png)
+
 *Example Site Map*
 
 Image must show:
@@ -164,6 +169,7 @@ Image must show:
 Student must provide 2 diagrams. 
 
 ![Wireframe Diagram](Images/WireframeDiagram.png)
+
 *Example Wireframe Diagram*
 
 
@@ -298,6 +304,7 @@ Show use of Polymorphism in a program and what it is doing.
 Provide a screenshot of an ineritance diagram.
 
 ![Inheritance Diagram](Images/InheritanceDiagram.png)
+
 *Example Inheritance Diagram*
 
 Students need to show variables and methods in a child class that have been inherited from a parent class.
@@ -333,9 +340,11 @@ Sequence Diagram:
 - Students need to indicate information that is returned with a dotted line and a clear label
 
 ![Sequence Diagram](Images/SequenceDiagram.png)
+
 *Example class Diagram 1 - methods that don't return anything*
 
 ![Sequence Diagram](Images/SequenceDiagram2.png)
+
 *Example class Diagram 2 - method that returns something*
 
 Collaboration Diagram:
@@ -345,6 +354,7 @@ Collaboration Diagram:
 - Students must include the boxes and need to have the initialization and end of process boxes.
 
 ![Collaboration Diagram](Images/CollaborationDiagram.png)
+
 *Example Collaboration Diagram*
 
 
